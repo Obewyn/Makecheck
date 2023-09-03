@@ -1,3 +1,9 @@
+# Contributors: obewyn
+# Donate link: https://github.com/Obewyn/
+# stable tag : 0.1
+
+
+
 ```python
 import requests
 from bs4 import BeautifulSoup
